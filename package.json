@@ -1,0 +1,31 @@
+{
+  "name": "viktor-nv1-settings-convertor",
+  "version": "1.0.0",
+  "description": "Utility to help transferring values between ranges used both in the audio engine of the Viktor NV-1 Synth and UI's built for it.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicroto/viktor-nv1-settings-convertor.git"
+  },
+  "keywords": [
+    "viktor",
+    "nv1",
+    "settingsconvertor"
+  ],
+  "author": "Nikolay Tsenkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicroto/viktor-nv1-settings-convertor/issues"
+  },
+  "homepage": "https://github.com/nicroto/viktor-nv1-settings-convertor",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-release": "^0.13.0",
+    "grunt-simple-mocha": "^0.4.0",
+    "should": "^7.1.0"
+  }
+}
