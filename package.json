@@ -1,6 +1,6 @@
 {
   "name": "viktor-nv1-settings-convertor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to help transferring values between ranges used both in the audio engine of the Viktor NV-1 Synth and UI's built for it.",
   "main": "src/index.js",
   "scripts": {
